@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-theme-faq",
-  "description": "Theme for using GitBook as a FAQ or Knowledge base",
+  "name": "gitbook-plugin-theme-redash",
+  "description": "GtiBook Theme for Redash's User Guide",
   "version": "1.1.0",
   "engines": {
     "gitbook": ">=3.0.0-pre.10"
@@ -15,17 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-faq.git"
+    "url": "https://github.com/getredash/gitbook-plugins-theme-redash.git"
   },
-  "author": "FriendCode Inc. <contact@gitbook.com>",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/GitbookIO/theme-faq/issues"
-  },
-  "contributors": [
-    {
-      "name": "Samy Pessé",
-      "email": "samy@gitbook.com"
-    }
+  "author": "Arik Fraimovich <arik@arikfr.com>",
+  "license": "Apache-2.0"
   ]
 }
